@@ -34,18 +34,18 @@ Blenderのマテリアル管理と割り当てを簡単にするためのアド�
 
 #### Create New Material
 新規マテリアルを作成します。
-1. 名前に新しいマテリアルの名前を入力します。
+1. 「Name」に新しいマテリアルの名前を入力します。
 2. Create New Materialボタンをクリックします。
 
 #### Assign to Selected Objects
 選択したオブジェクトにマテリアルを割り当てます。
-1. 割り当てるマテリアルをPanelのマテリアルの項目に入力します。
+1. 割り当てるマテリアルを「Material」の項目に入力します。
 2. マテリアルを割り当てたいオブジェクトを選択します。
 3. Assign to Selected Objectsボタンをクリックします。
 
 #### Assign to Collection
 1. 割り当てるマテリアルをPanelのマテリアルの項目に入力します。
-2. マテリアルを割り当てたいコレクションを選択します。
+2. マテリアルを割り当てたいコレクションを「Collection」の項目に入力します。
 3. Assign to Collectionボタンをクリックします。
 
 
