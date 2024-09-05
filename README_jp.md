@@ -18,9 +18,12 @@ Blenderのマテリアル管理と割り当てを簡単にするためのアド�
 
 ## 使い方
 
+![Material Manager](img/TheBigPicture.png)
+
 3Dビューのサイドバー（`View3D > Sidebar > Material Manager`）に移動します。
 
 ### マテリアルの管理 
+![Material List](img/materiallist.png)
 
 「Material List」パネルで既存のマテリアルを管理できます：
    - すべてのマテリアルを選択/解除。
@@ -29,6 +32,7 @@ Blenderのマテリアル管理と割り当てを簡単にするためのアド�
    - 選択したマテリアルを削除。
 
 ### マテリアルの作成と割り当て
+![Assign Material](img/assign_material.png)
 
 「Assign Material」パネルで新しいマテリアルを作成し、オブジェクトやコレクションに割り当てられます：
 
