@@ -2,6 +2,8 @@
 
 **Note:** The following text is a translation by ChatGPT, and the original Japanese text is considered the authoritative version.
 
+[日本語を表示](README_jp.md)
+
 This is an add-on to simplify material management and assignment in Blender. With this add-on, you can easily create, assign, and manage materials for objects and collections.
 
 ## Features
