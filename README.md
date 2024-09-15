@@ -4,6 +4,8 @@
 
 [日本語を表示](README_jp.md)
 
+![Thumbnail](img/thumbnail_16_9.png)
+
 This is an add-on to simplify material management and assignment in Blender. With this add-on, you can easily create, assign, and manage materials for objects and collections.
 
 ## Features
