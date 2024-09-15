@@ -1,6 +1,6 @@
 # 7sai Material Manager
 
-![Thumbnail](img/thumbnail_16_9.png)
+[![トレイラー動画](img/thumbnail_16_9.png)](https://www.youtube.com/watch?v=45gonGhqhHw)
 
 Blenderのマテリアル管理と割り当てを簡単にするためのアドオンです。このアドオンを使用すると、オブジェクトやコレクションに対して、マテリアルの作成、割り当て、管理を簡単に行うことができます。
 
